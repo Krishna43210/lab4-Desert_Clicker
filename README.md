@@ -24,4 +24,6 @@ Getting Started
  <h2>Home Page</h2>
 <img src="1a.png" alt="Add Task" style="height:300px;"/>
 
-<img src="2b.png" alt="Add Task" style="height:300px;"/>
+<img src="1b.png" alt="Add Task" style="height:300px;"/>
+
+<video src="1c.webm" width="180px"/>
